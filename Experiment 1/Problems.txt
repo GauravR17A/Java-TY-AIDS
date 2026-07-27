@@ -1,0 +1,9 @@
+Java Experiment 1
+1. Print welcome statement.
+2. Greatest of 3 numbers
+3. even - odd & addition using scanner class
+4. switch case.
+5. Reversing the digits of a number
+6. Factorial.
+7. star pattern.
+8. Using Do while display odd number between 10-15.
